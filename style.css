@@ -214,7 +214,7 @@
 /* RESTART BUTTON */
 .restart-btn {
   position: absolute;
-  bottom: 25px;
+  bottom: 15px;
   left: 50%;
   transform: translateX(-50%);
   padding: 14px 50px;
@@ -251,3 +251,4 @@
     opacity: 0;
   }
 }
+
